@@ -8,6 +8,9 @@ author: null
 show_tile: false
 ---
 
-Our goal is to build a research community in India that facilitates the advancement of women in research by promoting collaboration  across different STEM fields and providing resources that aid in career growth. We seek to  create a network of passionate women that will give rise to opportunities for the upliftment of all members. We would like the members of our community who have established research careers to share their stories and experiences to further motivate and facilitate the growth of younger members. We are committed to nurturing members of our community who are under-resourced or are from minority groups. We envision an empowered community of self-assured and career-focused women fostered by a culture of inclusiveness and cooperation.
+We aim to build a community of self-assured, career-focused and world-class women researchers in India across different STEM fields, by fostering a culture of inclusiveness and cooperation.
 
-Join the conversation!
+In order to realise this goal, our platform is committed to
+1. promote collaboration among women researchers across different STEM fields, to revive and significantly contribute to our rich scientific heritage.
+2. nurture women researchers who are under-resourced or are from minority groups, and providing resources that aid in their upliftment and career growth.
+3. foster future generations of women passionate about STEM research, by helping young researchers easily find abundance of inspiration and time-tested guidance.
