@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: FAQ
 nav-menu: true
 ---
 
