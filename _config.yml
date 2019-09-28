@@ -3,8 +3,8 @@ title: WISR
 subtitle: Women in STEM Research
 email: youremailaddress@gmail.com
 description: Our mission is to encourage women to pursue and excel in STEM research careers
-baseurl: "www.github.com/wisr-india/wisr-india.github.io/" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: "/wisr-india.github.io/" # the subpath of your site, e.g. /blog
+url: "www.github.com/wisr-india" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
