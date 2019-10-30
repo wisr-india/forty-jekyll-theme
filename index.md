@@ -20,8 +20,8 @@ We, at WISR, are a group of passionate and like-minded women in STEM research wh
 
 Interested? Here’s how you can help!
 
-We would like to know more about the challenges that women are facing in their pursuit of higher education or careers in STEM research. 
-We would also like to know what worked for women who have already established their research careers. This will help us structure the community and shape the mentorship platform optimally. 
+1. We would like to know more about the challenges that women are facing in their pursuit of higher education or careers in STEM research. 
+2. We would also like to know what worked for women who have already established their research careers. This will help us structure the community and shape the mentorship platform optimally. 
 
 We would be grateful if you can spare 5 - 10 minutes of your valuable time to fill out our survey form (here).
 
