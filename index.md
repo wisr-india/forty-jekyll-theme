@@ -22,13 +22,13 @@ Interested? Here’s how you can help!
 1. We would like to know more about the challenges that women are facing in their pursuit of higher education or careers in STEM research. 
 2. We would also like to know what worked for women who have already established their research careers. This will help us structure the community and shape the mentorship platform optimally. 
 
-We would be grateful if you can spare 5 - 10 minutes of your valuable time to fill out our survey form (<a href="https://docs.google.com/forms/d/e/1FAIpQLSeXy5OmswYZMVGTN7YQ6aXgCzuJOsWaAFWX_EhLKdoMXjKH5Q/viewform?usp=sf_link">here</a>.
+We would be grateful if you can spare 5 - 10 minutes of your valuable time to fill out our survey form <a href="https://docs.google.com/forms/d/e/1FAIpQLSeXy5OmswYZMVGTN7YQ6aXgCzuJOsWaAFWX_EhLKdoMXjKH5Q/viewform?usp=sf_link">here</a>.
 
 Are you excited to share some beneficial information with us? Write to us at contact.wisrin@gmail.com
 
 If you are enthusiastic about what we are doing and would like to be a part of our community, join us! Register <a href="https://docs.google.com/forms/d/e/1FAIpQLSfo7f8vMf7K_5Jwbc6l3Xk6A9T6CRKvkLRRR7wYNrWWj3iEMg/viewform?usp=sf_link">here</a> and we will contact you soon! 
 
-Best regards,
+
 
 WISR Team
  - Sushravya GM, <a href="https://www.linkedin.com/in/sushravya-gm-138493196">Founder at Deteor</a>
