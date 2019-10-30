@@ -32,6 +32,6 @@ Best regards,
 WISR Team
 
 Current Team:
- - Sushravya GM,<a href="https://www.linkedin.com/in/sushravya-gm-138493196">Founder at Deteor</a>
- - Tanmayee Narendra, [PhD Candidate, University of Tübingen] (https://www.linkedin.com/in/tanmayeenarendra/)
- - Janani Venkatasubramanian, [PhD Candidate, International Max-Planck Research School for Intelligent Systems, University of Stuttgart] (https://www.linkedin.com/in/jvenkatasubramanian/)
+ - Sushravya GM, <a href="https://www.linkedin.com/in/sushravya-gm-138493196">Founder at Deteor</a>
+ - Tanmayee Narendra, <a href="https://www.linkedin.com/in/tanmayeenarendra/">PhD Candidate, University of Tübingen</a> 
+ - Janani Venkatasubramanian, <a href="https://www.linkedin.com/in/jvenkatasubramanian/">PhD Candidate, International Max-Planck Research School for Intelligent Systems, University of Stuttgartn</a>
