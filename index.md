@@ -24,7 +24,7 @@ Interested? Here’s how you can help!
 
 We would be grateful if you can spare 5 - 10 minutes of your valuable time to fill out our survey form <a href="https://docs.google.com/forms/d/e/1FAIpQLSeXy5OmswYZMVGTN7YQ6aXgCzuJOsWaAFWX_EhLKdoMXjKH5Q/viewform?usp=sf_link">here</a>.
 
-Are you excited to share some beneficial information with us? Write to us at contact.wisrin@gmail.com
+Are you excited to share some beneficial information with us? Write to us at <a href="mailto:contact.wisrin@gmail.com">contact.wisrin@gmail.com</a>
 
 If you are enthusiastic about what we are doing and would like to be a part of our community, join us! Register <a href="https://docs.google.com/forms/d/e/1FAIpQLSfo7f8vMf7K_5Jwbc6l3Xk6A9T6CRKvkLRRR7wYNrWWj3iEMg/viewform?usp=sf_link">here</a> and we will contact you soon! 
 
