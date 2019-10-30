@@ -28,7 +28,8 @@ Are you excited to share some beneficial information with us? Write to us at (em
 
 If you are enthusiastic about what we are doing and would like to be a part of our community, join us! Register (here) and we will contact you soon! 
 
-Best regards, 
+Best regards,
+
 WISR Team
 
 Current Team:
