@@ -8,7 +8,6 @@ author: null
 show_tile: false
 ---
 
-Hello,
 
 Let’s take a few seconds to come up with some names of accomplished Indian scientists. 
 
