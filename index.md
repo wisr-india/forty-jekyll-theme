@@ -11,7 +11,7 @@ show_tile: false
 
 Let’s take a few seconds to come up with some names of accomplished Indian scientists. 
 
-Any woman in your list? If none, you are not alone. It is perhaps because less than 15% of the STEM (Science, Technology, Engineering and Mathematics) R&D taskforce in India is comprised of women. You would agree that this disparity between the number of men and women in STEM research is quite alarming, and that this has led to a dearth of role models and mentors for young women interested in STEM research in India.
+Any woman in your list? If it is hard to recall, you are not alone. It is perhaps because less than 15% of the STEM (Science, Technology, Engineering and Mathematics) R&D taskforce in India is comprised of women. You would agree that this disparity between the number of men and women in STEM research is quite alarming, and that this has led to a dearth of role models and mentors for young women interested in STEM research in India.
 
 WISR (Women in STEM Research) has been founded with a mission to alleviate this disparity and provide a gender-neutral level playing field for Indians in STEM.
 
